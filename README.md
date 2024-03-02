@@ -1,2 +1,2 @@
-# inta_6450_group_4_project
+# NowSecure Risky Apps Analysis
 Course Group Project Repository
